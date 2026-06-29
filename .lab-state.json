@@ -7,5 +7,13 @@
   "publisherPrefix": "almlab",
   "repo": "lcjensen/alm-lab",
   "mainRulesetId": 18265371,
-  "mainRulesetName": "alm-lab-main-protection"
+  "mainRulesetName": "alm-lab-main-protection",
+  "devEnvName": "Warehouse dev 4905",
+  "devEnvDomain": "wm-dev-4905",
+  "devEnvUrl": "https://wm-dev-4905.crm4.dynamics.com",
+  "devProfile": "dev",
+  "testEnvName": "Warehouse test 4905",
+  "testEnvDomain": "wm-test-4905",
+  "testEnvUrl": "https://wm-test-4905.crm4.dynamics.com",
+  "testProfile": "test"
 }
